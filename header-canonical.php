@@ -1,5 +1,6 @@
 		# URL canonique
-    # script à inclure dans le fichier header.php de votre thème. Une version en plugin existe à https://github.com/gcyrillus/myCannonical
+    		# script à inclure dans le fichier header.php de votre thème. Une version en plugin existe à https://github.com/gcyrillus/myCannonical
+		# licence GNU General Public License v3.0 : https://github.com/gcyrillus/scripts-pour-pluxml/blob/main/LICENSE
 		# Author Gcyrillus @ re7net.com
 		# genere l'url canonique de votre page , d'acceuil, categorie, statique ou article  sous la forme <link rel="canonical" href="URL" />
 		# conformémént à votre configuration urlrewriting, compatible avec le plugin MyBetterUrl
