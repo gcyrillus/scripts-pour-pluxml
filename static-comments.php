@@ -5,7 +5,7 @@
     # reponses aux commentaires
     # inclusion du capcha natif de PluXml
     # @Author Gcyrillus
-
+	# licence GNU General Public License v3.0 : https://github.com/gcyrillus/scripts-pour-pluxml/blob/main/LICENSE
     # $this is $plxShow
     #########################################
     #configuration
